@@ -4,7 +4,7 @@
 Projeto feito na plataforma da OPEN.AI para recriar um ebook sobre o tema "Senhor dos Anéis" como se fosse o próprio J. R. R. Tolkien escrevendo o ebook.
 
 ## 🤖 Tecnologias Utilizadas
-OPN.AI
+OPEN.AI
 
 ## 🧐 Processo de Criação
 Utilizando princípios de engenharia de prompt, pedi a IA Generativa que criasse um ebook contando as histórias do Senhor dos Anéis como se fosse o próprio autor original dos contos.
