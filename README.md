@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Recriando um ebook com a obra de J. R. R. Tolkien como se fosse ele escrevendo. ;)
 
 ## 📒 Descrição
 Projeto feito na plataforma da OPEN.AI para recriar um ebook sobre o tema "Senhor dos Anéis" como se fosse o próprio J. R. R. Tolkien escrevendo o ebook.
